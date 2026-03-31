@@ -26,7 +26,7 @@ const Index = () => {
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-foreground mb-4 tracking-tight">
             The <span className="text-primary">Saagar</span>
           </h1>
-          <p className={`text-lg md:text-xl text-muted-foreground max-w-xl mx-auto mb-8 ${lang === "hi" ? "font-hindi" : ""}`}>
+          <p className={`text-lg md:text-xl text-rose-400 max-w-xl mx-auto mb-8 ${lang === "hi" ? "font-hindi" : ""}`}>
             {t("hero.tagline")}
           </p>
           <Link
