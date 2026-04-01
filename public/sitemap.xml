@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://thesaagar.com/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/"/>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://thesaagar.com/blog</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/blog"/>
+  </url>
+
+  <!-- Categories -->
+  <url>
+    <loc>https://thesaagar.com/categories</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/categories"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/categories"/>
+  </url>
+
+  <!-- Archive -->
+  <url>
+    <loc>https://thesaagar.com/archive</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/archive"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/archive"/>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://thesaagar.com/about</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/about"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/about"/>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://thesaagar.com/contact</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/contact"/>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://thesaagar.com/privacy</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Terms and Conditions -->
+  <url>
+    <loc>https://thesaagar.com/terms</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Articles -->
+  <url>
+    <loc>https://thesaagar.com/article/future-of-artificial-intelligence-2026</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/future-of-artificial-intelligence-2026"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/future-of-artificial-intelligence-2026"/>
+  </url>
+
+  <url>
+    <loc>https://thesaagar.com/article/james-webb-telescope-new-discoveries</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/james-webb-telescope-new-discoveries"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/james-webb-telescope-new-discoveries"/>
+  </url>
+
+  <url>
+    <loc>https://thesaagar.com/article/quantum-computing-breakthrough</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/quantum-computing-breakthrough"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/quantum-computing-breakthrough"/>
+  </url>
+
+  <url>
+    <loc>https://thesaagar.com/article/deep-ocean-bioluminescence-mysteries</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/deep-ocean-bioluminescence-mysteries"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/deep-ocean-bioluminescence-mysteries"/>
+  </url>
+
+  <url>
+    <loc>https://thesaagar.com/article/renewable-energy-revolution-2026</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/renewable-energy-revolution-2026"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/renewable-energy-revolution-2026"/>
+  </url>
+
+  <url>
+    <loc>https://thesaagar.com/article/mars-sample-return-mission-update</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/mars-sample-return-mission-update"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/mars-sample-return-mission-update"/>
+  </url>
+
+  <url>
+    <loc>https://thesaagar.com/article/best-gadgets-spring-2026</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/best-gadgets-spring-2026"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/best-gadgets-spring-2026"/>
+  </url>
+
+  <url>
+    <loc>https://thesaagar.com/article/crispr-gene-editing-explained</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thesaagar.com/article/crispr-gene-editing-explained"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://thesaagar.com/article/crispr-gene-editing-explained"/>
+  </url>
+
+</urlset>
