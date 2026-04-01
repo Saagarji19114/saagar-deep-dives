@@ -26,7 +26,16 @@ const Index = () => {
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-foreground mb-4 tracking-tight">
             The <span className="text-primary">Saagar</span>
           </h1>
-          <p className={`text-lg md:text-xl text-rose-400 max-w-xl mx-auto mb-8 ${lang === "hi" ? "font-hindi" : ""}`}>
+          <p
+            className={`text-2xl md:text-3xl lg:text-4xl font-bold tracking-wide max-w-2xl mx-auto mb-8 ${lang === "hi" ? "font-hindi" : ""}`}
+            style={{
+              backgroundImage: "linear-gradient(90deg, #00F5FF, #0099FF)",
+              WebkitBackgroundClip: "text",
+              WebkitTextFillColor: "transparent",
+              textShadow: "0 0 30px rgba(0, 245, 255, 0.3), 0 0 60px rgba(0, 153, 255, 0.15)",
+              filter: "drop-shadow(0 0 12px rgba(0, 245, 255, 0.25))",
+            }}
+          >
             {t("hero.tagline")}
           </p>
           <Link
