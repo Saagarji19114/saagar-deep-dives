@@ -52,6 +52,82 @@ export const articles: Article[] = [
     },
     image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
   },
+  { id: "the-big-bang",
+    slug: "the-big-bang",
+    title: {
+      en: "The Big Bang: How the Universe Began 13.8 Billion Years Ago",
+      hi: "बिग बैंग: 13.8 अरब साल पहले ब्रह्मांड की शुरुआत कैसे हुई"
+    },
+    excerpt: {
+      en: "13.8 billion years ago the universe began with a massive explosion that created hydrogen and helium - the first building blocks of everything we see today.",
+      hi: "13.8 अरब साल पहले ब्रह्मांड की शुरुआत एक बड़े विस्फोट से हुई जिसमें हाइड्रोजन और हीलियम बने - आज जो कुछ भी हम देखते हैं उसके मूल ब्लॉक्स।"
+    },
+    content: {
+      en: `# The Big Bang: How the Universe Began 13.8 Billion Years Ago
+
+Imagine a time when there was no space, no time, no stars, and no planets. Everything that exists today — from the smallest atom to the largest galaxy — was once squeezed into an infinitely hot, infinitely dense point. Then, 13.8 billion years ago, that point exploded in the biggest event in cosmic history: the Big Bang.
+
+This is not just a story from ancient myths. It is the most successful scientific theory we have about the origin of our universe. In this article, we will journey step by step from that first moment to the birth of the very first elements — hydrogen and helium.
+
+### What Exactly Is the Big Bang Theory?
+
+The Big Bang theory tells us that the universe began as an extremely hot and dense state and has been expanding and cooling ever since. It was first proposed by Belgian priest and physicist Georges Lemaître in 1927.
+
+The theory does not say something exploded into empty space. Instead, space itself began expanding from that tiny point.
+
+### The First Instant: Cosmic Inflation
+
+At the very beginning, the universe was a singularity. In the first tiny fraction of a second, cosmic inflation happened. The universe expanded extremely fast — from smaller than a proton to the size of a grapefruit in less than 10⁻³² seconds.
+
+After inflation, the universe was still incredibly hot and filled with energy.
+
+### Quark-Gluon Plasma
+
+In the first microsecond, there was a hot soup of quarks and gluons. As the universe cooled, quarks joined together to form the first protons and neutrons.
+
+### Big Bang Nucleosynthesis: Birth of Hydrogen and Helium
+
+Between 10 seconds and 3 minutes after the Big Bang, nuclear fusion started. This short period is called Big Bang Nucleosynthesis.
+
+- About 75% of all normal matter became **Hydrogen** (single proton).  
+- About 25% became **Helium** (two protons + two neutrons).  
+
+This was the only time elements were created without stars. All the hydrogen and most helium we see today were born in these first three minutes.
+
+### 380,000 Years Later: Cosmic Microwave Background
+
+For the next 380,000 years the universe was a hot plasma. Then electrons joined with protons to form the first atoms. Light could finally travel freely.
+
+The light from this time is still reaching us today as the **Cosmic Microwave Background (CMB)** — the oldest light in the universe.
+
+### Strong Evidence for the Big Bang
+
+- Galaxies are moving away from us (expanding universe).  
+- Perfect Cosmic Microwave Background radiation.  
+- Exact ratio of hydrogen (75%) and helium (25%).  
+
+These observations make the Big Bang theory very strong.
+
+### Why This Matters for Our 118 Elements Series
+
+The Big Bang gave us the first building blocks — hydrogen and helium. Without them, there would be no stars, no heavier elements, and no life.
+
+Every atom in your body started its journey either in the Big Bang or inside stars that formed later.
+
+### What’s Next on The Saagar?
+
+In the next article, we will explore **Hydrogen – The First and Most Abundant Element in the Universe**. How this simple atom powered the first stars and made everything else possible.
+
+Stay tuned — the journey of 118 elements has only just begun!`,
+      hi: ""   // Hindi version baad mein add kar sakte hain
+    },
+    image: "/images/blog/big-bang-hero.jpg",
+    category: "space",
+    author: "Sahjad",
+    date: "2026-04-02",
+    readTime: 12,
+    featured: true
+  },
   {
     id: "3", slug: "quantum-computing-breakthrough",
     title: { en: "Quantum Computing: The 1000-Qubit Milestone", hi: "क्वांटम कंप्यूटिंग: 1000-क्यूबिट का मील का पत्थर" },
