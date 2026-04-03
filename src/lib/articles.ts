@@ -52,7 +52,8 @@ export const articles: Article[] = [
     },
     image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
   },
-  { id: "the-big-bang",
+  { 
+    id: "the-big-bang",
     slug: "the-big-bang",
     title: {
       en: "The Big Bang: How the Universe Began 13.8 Billion Years Ago",
