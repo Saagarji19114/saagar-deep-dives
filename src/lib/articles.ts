@@ -133,7 +133,7 @@ Stay tuned — the journey of 118 elements has only just begun!`,
     date: "2026-04-02",
     readTime: 12,
     featured: true
-  }
+  },
   {
     id: "3", slug: "quantum-computing-breakthrough",
     title: { en: "Quantum Computing: The 1000-Qubit Milestone", hi: "क्वांटम कंप्यूटिंग: 1000-क्यूबिट का मील का पत्थर" },
