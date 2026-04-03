@@ -52,7 +52,7 @@ export const articles: Article[] = [
     },
     image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
   },
-  { 
+   {
     id: "the-big-bang",
     slug: "the-big-bang",
     title: {
@@ -61,110 +61,79 @@ export const articles: Article[] = [
     },
     excerpt: {
       en: "13.8 billion years ago the universe began with a massive explosion that created hydrogen and helium - the first building blocks of everything we see today.",
-      hi: "13.8 अरब साल पहले ब्रह्मांड की शुरुआत एक बड़े विस्फोट से हुई जिसमें हाइड्रोजन और हीलियम बने - आज जो कुछ भी हम देखते हैं उसके मूल ब्लॉक्स।"
+      hi: "13.8 अरब साल पहले ब्रह्मांड की शुरुआत एक बड़े विस्फोट से हुई जिसमें हाइड्रोजन और हीलियम बने।"
     },
     content: {
       en: `# The Big Bang: How the Universe Began 13.8 Billion Years Ago
-hi: `# बिग बैंग: 13.8 अरब साल पहले ब्रह्मांड की शुरुआत कैसे हुई
+
+<img src="/big-bang-hero.jpg" alt="Big Bang Explosion" style="width:100%; border-radius:12px; margin:25px 0;">
+
+Imagine a time when there was no space, no time, no stars, and no planets. Everything that exists today — from the smallest atom to the largest galaxy — was once squeezed into an infinitely hot, infinitely dense point. Then, 13.8 billion years ago, that point exploded in the biggest event in cosmic history: the Big Bang.
+
+This is the most successful scientific theory we have about the origin of our universe.
+
+### What Exactly Is the Big Bang Theory?
+
+The Big Bang theory tells us that the universe began as an extremely hot and dense state and has been expanding and cooling ever since.
+
+<img src="/cmb-map.jpg" alt="Cosmic Microwave Background" style="width:100%; border-radius:12px; margin:25px 0;">
+
+### 380,000 Years Later: Cosmic Microwave Background
+
+The light from this time is still reaching us today as the Cosmic Microwave Background — the oldest light in the universe.
+
+<img src="/early-galaxies.jpg" alt="Early Galaxies" style="width:100%; border-radius:12px; margin:25px 0;">
+
+### Why This Matters
+
+The Big Bang gave us the first building blocks for all 118 elements we will explore in this series.
+
+<img src="/milky-way.jpg" alt="Milky Way Galaxy" style="width:100%; border-radius:12px; margin:25px 0;">
+
+### What’s Next on The Saagar?
+
+In the next article, we will explore **Hydrogen – The First and Most Abundant Element in the Universe**.
+
+Stay tuned — the journey of 118 elements has only just begun!`,
+      hi: `# बिग बैंग: 13.8 अरब साल पहले ब्रह्मांड की शुरुआत कैसे हुई
+
+<img src="/big-bang-hero.jpg" alt="बिग बैंग विस्फोट" style="width:100%; border-radius:12px; margin:25px 0;">
 
 कल्पना कीजिए एक ऐसे समय की जब न स्पेस था, न समय था, न तारे थे और न ग्रह। आज जो कुछ भी अस्तित्व में है — सबसे छोटे परमाणु से लेकर सबसे बड़ी गैलेक्सी तक — सब कुछ एक बार अनंत गर्म और घने बिंदु में समाया हुआ था। फिर 13.8 अरब साल पहले उस बिंदु में ब्रह्मांड का सबसे बड़ा विस्फोट हुआ — **बिग बैंग**।
 
-यह कोई पुरानी कहानी नहीं है। यह हमारे ब्रह्मांड की उत्पत्ति का सबसे सफल वैज्ञानिक सिद्धांत है।
+यह हमारे ब्रह्मांड की उत्पत्ति का सबसे सफल वैज्ञानिक सिद्धांत है।
 
 ### बिग बैंग सिद्धांत क्या है?
 
 बिग बैंग सिद्धांत बताता है कि ब्रह्मांड बेहद गर्म और घनी अवस्था से शुरू हुआ और तब से लगातार फैल रहा है तथा ठंडा हो रहा है।
 
-### पहले पल — कॉस्मिक इन्फ्लेशन
-
-शुरुआती अंश सेकंड में ब्रह्मांड ने बेहद तेजी से फैलाव किया।
-
-### हाइड्रोजन और हीलियम का जन्म
-
-बिग बैंग के 3 मिनट के अंदर पहले तत्व बने:
-- **75% हाइड्रोजन**
-- **25% हीलियम**
-
-यह ब्रह्मांड के इतिहास में唯一 समय था जब बिना तारों के तत्व बने। आज भी यही दोनों तत्व सबसे ज्यादा हैं।
+<img src="/cmb-map.jpg" alt="कॉस्मिक माइक्रोवेव बैकग्राउंड" style="width:100%; border-radius:12px; margin:25px 0;">
 
 ### 3,80,000 साल बाद
 
 ब्रह्मांड ठंडा होकर पारदर्शी हो गया। उसी समय का प्रकाश आज भी हमें मिल रहा है — ब्रह्मांड का सबसे पुराना प्रकाश।
 
-### यह हमारी 118 तत्वों की श्रृंखला के लिए क्यों महत्वपूर्ण है?
+<img src="/early-galaxies.jpg" alt="प्राचीन गैलेक्सी" style="width:100%; border-radius:12px; margin:25px 0;">
 
-बिग बैंग ने हमें पहली ईंटें दीं — हाइड्रोजन और हीलियम। इन्हीं के बिना तारे नहीं बन सकते थे, न भारी तत्व और न जीवन।
+### यह हमारी 118 तत्वों की श्रृंखला के लिए क्यों जरूरी है?
 
-आपके शरीर का हर परमाणु या तो बिग बैंग से आया है या बाद में बने तारों से।
+बिग बैंग ने हमें पहली ईंटें दीं — हाइड्रोजन और हीलियम। इनके बिना तारे नहीं बन सकते थे, न भारी तत्व और न जीवन।
+
+<img src="/milky-way.jpg" alt="आकाशगंगा" style="width:100%; border-radius:12px; margin:25px 0;">
 
 ### अगला लेख
 
-अगले लेख में हम **हाइड्रोजन** पर बात करेंगे — ब्रह्मांड का सबसे पहला और सबसे प्रचुर तत्व। यह कैसे पहले तारों को जलाया और बाकी सब कुछ संभव बनाया।
+अगले लेख में हम **हाइड्रोजन** पर बात करेंगे — ब्रह्मांड का सबसे पहला और सबसे प्रचुर तत्व।
 
 बने रहिए — 118 तत्वों की यात्रा अभी शुरू हुई है!`
-Imagine a time when there was no space, no time, no stars, and no planets. Everything that exists today — from the smallest atom to the largest galaxy — was once squeezed into an infinitely hot, infinitely dense point. Then, 13.8 billion years ago, that point exploded in the biggest event in cosmic history: the Big Bang.
-
-This is not just a story from ancient myths. It is the most successful scientific theory we have about the origin of our universe. In this article, we will journey step by step from that first moment to the birth of the very first elements — hydrogen and helium.
-
-### What Exactly Is the Big Bang Theory?
-
-The Big Bang theory tells us that the universe began as an extremely hot and dense state and has been expanding and cooling ever since. It was first proposed by Belgian priest and physicist Georges Lemaître in 1927.
-
-The theory does not say something exploded into empty space. Instead, space itself began expanding from that tiny point.
-
-### The First Instant: Cosmic Inflation
-
-At the very beginning, the universe was a singularity. In the first tiny fraction of a second, cosmic inflation happened. The universe expanded extremely fast — from smaller than a proton to the size of a grapefruit in less than 10⁻³² seconds.
-
-After inflation, the universe was still incredibly hot and filled with energy.
-
-### Quark-Gluon Plasma
-
-In the first microsecond, there was a hot soup of quarks and gluons. As the universe cooled, quarks joined together to form the first protons and neutrons.
-
-### Big Bang Nucleosynthesis: Birth of Hydrogen and Helium
-
-Between 10 seconds and 3 minutes after the Big Bang, nuclear fusion started. This short period is called Big Bang Nucleosynthesis.
-
-- About 75% of all normal matter became **Hydrogen** (single proton).  
-- About 25% became **Helium** (two protons + two neutrons).  
-
-This was the only time elements were created without stars. All the hydrogen and most helium we see today were born in these first three minutes.
-
-### 380,000 Years Later: Cosmic Microwave Background
-
-For the next 380,000 years the universe was a hot plasma. Then electrons joined with protons to form the first atoms. Light could finally travel freely.
-
-The light from this time is still reaching us today as the **Cosmic Microwave Background (CMB)** — the oldest light in the universe.
-
-### Strong Evidence for the Big Bang
-
-- Galaxies are moving away from us (expanding universe).  
-- Perfect Cosmic Microwave Background radiation.  
-- Exact ratio of hydrogen (75%) and helium (25%).  
-
-These observations make the Big Bang theory very strong.
-
-### Why This Matters for Our 118 Elements Series
-
-The Big Bang gave us the first building blocks — hydrogen and helium. Without them, there would be no stars, no heavier elements, and no life.
-
-Every atom in your body started its journey either in the Big Bang or inside stars that formed later.
-
-### What’s Next on The Saagar?
-
-In the next article, we will explore **Hydrogen – The First and Most Abundant Element in the Universe**. How this simple atom powered the first stars and made everything else possible.
-
-Stay tuned — the journey of 118 elements has only just begun!`,
-      hi: ""   // Hindi version baad mein add kar sakte hain
     },
-    image: "/images/blog/big-bang-hero.jpg",
+    image: "/big-bang-hero.jpg",
     category: "space",
     author: "Sahjad",
     date: "2026-04-02",
     readTime: 12,
     featured: true
-  },
+  }
   {
     id: "3", slug: "quantum-computing-breakthrough",
     title: { en: "Quantum Computing: The 1000-Qubit Milestone", hi: "क्वांटम कंप्यूटिंग: 1000-क्यूबिट का मील का पत्थर" },
