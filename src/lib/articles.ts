@@ -52,7 +52,7 @@ export const articles: Article[] = [
     },
     image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
   },
-  {   
+{
     id: "the-big-bang",
     slug: "the-big-bang",
     title: {
@@ -61,7 +61,7 @@ export const articles: Article[] = [
     },
     excerpt: {
       en: "13.8 billion years ago the universe began with a massive explosion that created hydrogen and helium - the first building blocks of everything we see today.",
-      hi: "13.8 अरब साल पहले ब्रह्मांड की शुरुआत एक बड़े विस्फोट से हुई जिसमें हाइड्रोजन और हीलियम बने - ब्रह्मांड के पहले तत्व।"
+      hi: "13.8 अरब साल पहले ब्रह्मांड की शुरुआत एक बड़े विस्फोट से हुई जिसमें हाइड्रोजन और हीलियम बने — ब्रह्मांड के पहले तत्व।"
     },
     content: {
       en: `# The Big Bang: How the Universe Began 13.8 Billion Years Ago
@@ -70,64 +70,116 @@ export const articles: Article[] = [
 
 Imagine a time when there was no space, no time, no stars, and no planets. Everything that exists today — from the smallest atom to the largest galaxy — was once squeezed into an infinitely hot, infinitely dense point. Then, 13.8 billion years ago, that point exploded in the biggest event in cosmic history: the Big Bang.
 
-This is the most successful scientific theory about the origin of our universe.
+This is not just a story from ancient myths. It is the most successful scientific theory we have about the origin of our universe. In this article, we will journey step by step from that first moment to the birth of the very first elements — hydrogen and helium.
 
 ### What Exactly Is the Big Bang Theory?
 
-The Big Bang theory tells us that the universe began as an extremely hot and dense state and has been expanding and cooling ever since.
+The Big Bang theory tells us that the universe began as an extremely hot and dense state and has been expanding and cooling ever since. It was first proposed by Belgian priest and physicist Georges Lemaître in 1927. Later, Edwin Hubble’s discovery that galaxies are moving away from us gave strong evidence that the universe is expanding.
+
+The theory does not say something exploded into empty space. Instead, space itself began expanding from that tiny point.
+
+### The First Instant: Cosmic Inflation
+
+At the very beginning, the universe was a singularity. In the first tiny fraction of a second, cosmic inflation happened. The universe expanded extremely fast — from smaller than a proton to the size of a grapefruit in less than 10⁻³² seconds.
+
+After inflation, the universe was still incredibly hot and filled with energy.
+
+### Quark-Gluon Plasma
+
+In the first microsecond, there was a hot soup of quarks and gluons. As the universe cooled, quarks joined together to form the first protons and neutrons.
+
+### Big Bang Nucleosynthesis: Birth of Hydrogen and Helium
+
+Between 10 seconds and 3 minutes after the Big Bang, nuclear fusion started. This short period is called Big Bang Nucleosynthesis.
+
+- About 75% of all normal matter became **Hydrogen** (single proton).  
+- About 25% became **Helium** (two protons + two neutrons).  
+
+This was the only time in history when elements were created without stars. All the hydrogen and most of the helium we see today were born in these first three minutes.
 
 <img src="/cmb-map.jpg" alt="Cosmic Microwave Background" style="width:100%; border-radius:12px; margin:25px 0;">
 
 ### 380,000 Years Later: Cosmic Microwave Background
 
-The light from this time is still reaching us today as the Cosmic Microwave Background — the oldest light in the universe.
+For the next 380,000 years the universe was a hot plasma. Then electrons joined with protons to form the first neutral atoms. Light could finally travel freely.
+
+The light from this time is still reaching us today as the Cosmic Microwave Background — the oldest light in the universe and one of the strongest evidences for the Big Bang theory.
+
+### Strong Evidence for the Big Bang
+
+Scientists have collected rock-solid proof:
+1. Galaxies are moving away from us (Hubble’s law).
+2. The Cosmic Microwave Background matches predictions perfectly.
+3. The exact ratio of hydrogen (75%) and helium (25%) matches Big Bang calculations.
+
+No other theory explains all these observations so beautifully.
 
 <img src="/early-galaxies.jpg" alt="Early Galaxies" style="width:100%; border-radius:12px; margin:25px 0;">
 
-### Why This Matters
+### Why This Matters for Our 118 Elements Series
 
-The Big Bang gave us the first building blocks for all 118 elements we will explore in this series.
+The Big Bang is the beginning of the story of every single element we will cover in this series on The Saagar. Without that first explosion and those first three minutes of fusion, there would be no hydrogen to fuel the first stars, no helium to help form galaxies, and no building blocks for everything else that came later.
+
+Every atom in your body, in the air you breathe, and in the stars above was born either in the Big Bang or inside stars that came much later.
 
 <img src="/milky-way.jpg" alt="Milky Way Galaxy" style="width:100%; border-radius:12px; margin:25px 0;">
 
-Stay tuned for the next article on Hydrogen.`,
+### What’s Next on The Saagar?
+
+In the next article of our journey, we will zoom in on the very first and most important element born in the Big Bang: **Hydrogen – The First and Most Abundant Element in the Universe**. We will explore how this simple atom powered the first stars, created the first heavy elements, and eventually made life on Earth possible.
+
+Stay tuned — the story of the 118 elements has only just begun!`,
       hi: `# बिग बैंग: 13.8 अरब साल पहले ब्रह्मांड की शुरुआत कैसे हुई
 
 <img src="/big-bang-hero.jpg" alt="बिग बैंग विस्फोट" style="width:100%; border-radius:12px; margin:25px 0;">
 
 कल्पना कीजिए एक ऐसे समय की जब न स्पेस था, न समय था, न तारे थे और न ग्रह। आज जो कुछ भी अस्तित्व में है — सबसे छोटे परमाणु से लेकर सबसे बड़ी गैलेक्सी तक — सब कुछ एक बार अनंत गर्म और घने बिंदु में समाया हुआ था। फिर 13.8 अरब साल पहले उस बिंदु में ब्रह्मांड का सबसे बड़ा विस्फोट हुआ — **बिग बैंग**।
 
-यह कोई पुरानी कहानी नहीं है। यह हमारे ब्रह्मांड की उत्पत्ति का सबसे सफल वैज्ञानिक सिद्धांत है।
+यह कोई पुरानी कहानी नहीं है। यह हमारे ब्रह्मांड की उत्पत्ति का सबसे सफल वैज्ञानिक सिद्धांत है। इस लेख में हम उस पहले पल से लेकर हाइड्रोजन और हीलियम के जन्म तक की पूरी यात्रा करेंगे।
 
 ### बिग बैंग सिद्धांत क्या है?
 
-बिग बैंग सिद्धांत कहता है कि ब्रह्मांड बेहद गर्म और घनी अवस्था से शुरू हुआ और तब से लगातार फैल रहा है तथा ठंडा हो रहा है।
+बिग बैंग सिद्धांत कहता है कि ब्रह्मांड बेहद गर्म और घनी अवस्था से शुरू हुआ और तब से लगातार फैल रहा है तथा ठंडा हो रहा है। यह सिद्धांत 1927 में जॉर्जेस लेमेत्रे नामक वैज्ञानिक और पुजारी ने दिया था।
 
 ### पहले पल — कॉस्मिक इन्फ्लेशन
 
-शुरुआती अंश सेकंड में ब्रह्मांड ने बेहद तेजी से फैलाव किया।
+ब्रह्मांड की शुरुआत में एक बहुत छोटा सा बिंदु था, जिसे सिंगुलैरिटी कहते हैं। पहले अंश सेकंड में **कॉस्मिक इन्फ्लेशन** हुआ। ब्रह्मांड ने इतनी तेजी से फैलाव किया कि प्रकाश की गति से भी ज्यादा तेज हो गया।
 
-### हाइड्रोजन और हीलियम का जन्म
+### क्वार्क-ग्लूऑन प्लाज्मा
 
-बिग बैंग के 3 मिनट के अंदर पहले तत्व बने:
-- **75% हाइड्रोजन**
-- **25% हीलियम**
+पहले माइक्रोसेकंड में ब्रह्मांड इतना गर्म था कि प्रोटॉन और न्यूट्रॉन भी नहीं बन पाए थे। वहाँ सिर्फ क्वार्क और ग्लूऑन का गर्म सूप था। जैसे-जैसे ब्रह्मांड ठंडा हुआ, क्वार्क मिलकर पहले प्रोटॉन और न्यूट्रॉन बने।
 
-यह ब्रह्मांड के इतिहास में唯一 समय था जब बिना तारों के तत्व बने। आज भी यही दोनों तत्व सबसे ज्यादा हैं।
+### बिग बैंग न्यूक्लियोसिंथेसिस — हाइड्रोजन और हीलियम का जन्म
+
+बिग बैंग के 10 सेकंड से 3 मिनट के बीच एक बहुत महत्वपूर्ण प्रक्रिया हुई — **न्यूक्लियर फ्यूजन**।
+
+इस छोटे से समय में:
+- **75% हाइड्रोजन** (सिर्फ एक प्रोटॉन)
+- **25% हीलियम** (दो प्रोटॉन + दो न्यूट्रॉन)
+
+बना। यह ब्रह्मांड के इतिहास में唯一 समय था जब बिना तारों के तत्व बने। आज भी ये दोनों तत्व ब्रह्मांड में सबसे ज्यादा हैं।
 
 <img src="/cmb-map.jpg" alt="कॉस्मिक माइक्रोवेव बैकग्राउंड" style="width:100%; border-radius:12px; margin:25px 0;">
 
-### 3,80,000 साल बाद
+### 3,80,000 साल बाद — ब्रह्मांड पारदर्शी हो गया
 
-ब्रह्मांड ठंडा होकर पारदर्शी हो गया। उसी समय का प्रकाश आज भी हमें मिल रहा है — ब्रह्मांड का सबसे पुराना प्रकाश।
+3,80,000 साल तक ब्रह्मांड गर्म प्लाज्मा था। फिर जब तापमान काफी गिर गया, इलेक्ट्रॉन प्रोटॉन से जुड़कर पहले परमाणु बने। प्रकाश स्वतंत्र रूप से यात्रा करने लगा।
+
+उसी समय का प्रकाश आज भी हमें **कॉस्मिक माइक्रोवेव बैकग्राउंड** के रूप में मिल रहा है — ब्रह्मांड का सबसे पुराना प्रकाश।
 
 <img src="/early-galaxies.jpg" alt="प्राचीन गैलेक्सी" style="width:100%; border-radius:12px; margin:25px 0;">
+
+### बिग बैंग के मजबूत सबूत
+
+1. आकाशगंगाएँ हमसे दूर जा रही हैं (हबल का नियम)।
+2. कॉस्मिक माइक्रोवेव बैकग्राउंड विकिरण बिल्कुल सही भविष्यवाणी से मेल खाता है।
+3. हाइड्रोजन (75%) और हीलियम (25%) का सही अनुपात बिग बैंग की गणना से मेल खाता है।
 
 ### यह हमारी 118 तत्वों की श्रृंखला के लिए क्यों महत्वपूर्ण है?
 
 बिग बैंग ने हमें पहली ईंटें दीं — हाइड्रोजन और हीलियम। इनके बिना तारे नहीं बन सकते थे, न भारी तत्व और न जीवन।
 
-आपके शरीर का हर परमाणु या तो बिग बैंग से आया है या बाद में बने तारों से।
+आपके शरीर का हर परमाणु या तो बिग बैंग से आया है या बाद में बने तारों के अंदर बना है।
 
 <img src="/milky-way.jpg" alt="आकाशगंगा" style="width:100%; border-radius:12px; margin:25px 0;">
 
@@ -141,9 +193,9 @@ Stay tuned for the next article on Hydrogen.`,
     category: "space",
     author: "Sahjad",
     date: "2026-04-02",
-    readTime: 12,
+    readTime: 15,
     featured: true
-  },
+  }
   {
     id: "3", slug: "quantum-computing-breakthrough",
     title: { en: "Quantum Computing: The 1000-Qubit Milestone", hi: "क्वांटम कंप्यूटिंग: 1000-क्यूबिट का मील का पत्थर" },
