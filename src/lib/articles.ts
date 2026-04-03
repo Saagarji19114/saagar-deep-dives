@@ -52,7 +52,7 @@ export const articles: Article[] = [
     },
     image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
   },
-   {
+  {   
     id: "the-big-bang",
     slug: "the-big-bang",
     title: {
@@ -61,7 +61,7 @@ export const articles: Article[] = [
     },
     excerpt: {
       en: "13.8 billion years ago the universe began with a massive explosion that created hydrogen and helium - the first building blocks of everything we see today.",
-      hi: "13.8 अरब साल पहले ब्रह्मांड की शुरुआत एक बड़े विस्फोट से हुई जिसमें हाइड्रोजन और हीलियम बने।"
+      hi: "13.8 अरब साल पहले ब्रह्मांड की शुरुआत एक बड़े विस्फोट से हुई जिसमें हाइड्रोजन और हीलियम बने - ब्रह्मांड के पहले तत्व।"
     },
     content: {
       en: `# The Big Bang: How the Universe Began 13.8 Billion Years Ago
@@ -70,7 +70,7 @@ export const articles: Article[] = [
 
 Imagine a time when there was no space, no time, no stars, and no planets. Everything that exists today — from the smallest atom to the largest galaxy — was once squeezed into an infinitely hot, infinitely dense point. Then, 13.8 billion years ago, that point exploded in the biggest event in cosmic history: the Big Bang.
 
-This is the most successful scientific theory we have about the origin of our universe.
+This is the most successful scientific theory about the origin of our universe.
 
 ### What Exactly Is the Big Bang Theory?
 
@@ -90,22 +90,30 @@ The Big Bang gave us the first building blocks for all 118 elements we will expl
 
 <img src="/milky-way.jpg" alt="Milky Way Galaxy" style="width:100%; border-radius:12px; margin:25px 0;">
 
-### What’s Next on The Saagar?
-
-In the next article, we will explore **Hydrogen – The First and Most Abundant Element in the Universe**.
-
-Stay tuned — the journey of 118 elements has only just begun!`,
+Stay tuned for the next article on Hydrogen.`,
       hi: `# बिग बैंग: 13.8 अरब साल पहले ब्रह्मांड की शुरुआत कैसे हुई
 
 <img src="/big-bang-hero.jpg" alt="बिग बैंग विस्फोट" style="width:100%; border-radius:12px; margin:25px 0;">
 
 कल्पना कीजिए एक ऐसे समय की जब न स्पेस था, न समय था, न तारे थे और न ग्रह। आज जो कुछ भी अस्तित्व में है — सबसे छोटे परमाणु से लेकर सबसे बड़ी गैलेक्सी तक — सब कुछ एक बार अनंत गर्म और घने बिंदु में समाया हुआ था। फिर 13.8 अरब साल पहले उस बिंदु में ब्रह्मांड का सबसे बड़ा विस्फोट हुआ — **बिग बैंग**।
 
-यह हमारे ब्रह्मांड की उत्पत्ति का सबसे सफल वैज्ञानिक सिद्धांत है।
+यह कोई पुरानी कहानी नहीं है। यह हमारे ब्रह्मांड की उत्पत्ति का सबसे सफल वैज्ञानिक सिद्धांत है।
 
 ### बिग बैंग सिद्धांत क्या है?
 
-बिग बैंग सिद्धांत बताता है कि ब्रह्मांड बेहद गर्म और घनी अवस्था से शुरू हुआ और तब से लगातार फैल रहा है तथा ठंडा हो रहा है।
+बिग बैंग सिद्धांत कहता है कि ब्रह्मांड बेहद गर्म और घनी अवस्था से शुरू हुआ और तब से लगातार फैल रहा है तथा ठंडा हो रहा है।
+
+### पहले पल — कॉस्मिक इन्फ्लेशन
+
+शुरुआती अंश सेकंड में ब्रह्मांड ने बेहद तेजी से फैलाव किया।
+
+### हाइड्रोजन और हीलियम का जन्म
+
+बिग बैंग के 3 मिनट के अंदर पहले तत्व बने:
+- **75% हाइड्रोजन**
+- **25% हीलियम**
+
+यह ब्रह्मांड के इतिहास में唯一 समय था जब बिना तारों के तत्व बने। आज भी यही दोनों तत्व सबसे ज्यादा हैं।
 
 <img src="/cmb-map.jpg" alt="कॉस्मिक माइक्रोवेव बैकग्राउंड" style="width:100%; border-radius:12px; margin:25px 0;">
 
@@ -115,15 +123,17 @@ Stay tuned — the journey of 118 elements has only just begun!`,
 
 <img src="/early-galaxies.jpg" alt="प्राचीन गैलेक्सी" style="width:100%; border-radius:12px; margin:25px 0;">
 
-### यह हमारी 118 तत्वों की श्रृंखला के लिए क्यों जरूरी है?
+### यह हमारी 118 तत्वों की श्रृंखला के लिए क्यों महत्वपूर्ण है?
 
 बिग बैंग ने हमें पहली ईंटें दीं — हाइड्रोजन और हीलियम। इनके बिना तारे नहीं बन सकते थे, न भारी तत्व और न जीवन।
+
+आपके शरीर का हर परमाणु या तो बिग बैंग से आया है या बाद में बने तारों से।
 
 <img src="/milky-way.jpg" alt="आकाशगंगा" style="width:100%; border-radius:12px; margin:25px 0;">
 
 ### अगला लेख
 
-अगले लेख में हम **हाइड्रोजन** पर बात करेंगे — ब्रह्मांड का सबसे पहला और सबसे प्रचुर तत्व।
+अगले लेख में हम **हाइड्रोजन** पर बात करेंगे — ब्रह्मांड का सबसे पहला और सबसे प्रचुर तत्व। यह कैसे पहले तारों को जलाया और बाकी सब कुछ संभव बनाया।
 
 बने रहिए — 118 तत्वों की यात्रा अभी शुरू हुई है!`
     },
