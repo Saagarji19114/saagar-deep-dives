@@ -52,8 +52,7 @@ export const articles: Article[] = [
     },
     image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
   },
-  { 
-    id: "the-big-bang",
+  { id: "the-big-bang",
     slug: "the-big-bang",
     title: {
       en: "The Big Bang: How the Universe Began 13.8 Billion Years Ago",
@@ -65,7 +64,43 @@ export const articles: Article[] = [
     },
     content: {
       en: `# The Big Bang: How the Universe Began 13.8 Billion Years Ago
+hi: `# बिग बैंग: 13.8 अरब साल पहले ब्रह्मांड की शुरुआत कैसे हुई
 
+कल्पना कीजिए एक ऐसे समय की जब न स्पेस था, न समय था, न तारे थे और न ग्रह। आज जो कुछ भी अस्तित्व में है — सबसे छोटे परमाणु से लेकर सबसे बड़ी गैलेक्सी तक — सब कुछ एक बार अनंत गर्म और घने बिंदु में समाया हुआ था। फिर 13.8 अरब साल पहले उस बिंदु में ब्रह्मांड का सबसे बड़ा विस्फोट हुआ — **बिग बैंग**।
+
+यह कोई पुरानी कहानी नहीं है। यह हमारे ब्रह्मांड की उत्पत्ति का सबसे सफल वैज्ञानिक सिद्धांत है।
+
+### बिग बैंग सिद्धांत क्या है?
+
+बिग बैंग सिद्धांत बताता है कि ब्रह्मांड बेहद गर्म और घनी अवस्था से शुरू हुआ और तब से लगातार फैल रहा है तथा ठंडा हो रहा है।
+
+### पहले पल — कॉस्मिक इन्फ्लेशन
+
+शुरुआती अंश सेकंड में ब्रह्मांड ने बेहद तेजी से फैलाव किया।
+
+### हाइड्रोजन और हीलियम का जन्म
+
+बिग बैंग के 3 मिनट के अंदर पहले तत्व बने:
+- **75% हाइड्रोजन**
+- **25% हीलियम**
+
+यह ब्रह्मांड के इतिहास में唯一 समय था जब बिना तारों के तत्व बने। आज भी यही दोनों तत्व सबसे ज्यादा हैं।
+
+### 3,80,000 साल बाद
+
+ब्रह्मांड ठंडा होकर पारदर्शी हो गया। उसी समय का प्रकाश आज भी हमें मिल रहा है — ब्रह्मांड का सबसे पुराना प्रकाश।
+
+### यह हमारी 118 तत्वों की श्रृंखला के लिए क्यों महत्वपूर्ण है?
+
+बिग बैंग ने हमें पहली ईंटें दीं — हाइड्रोजन और हीलियम। इन्हीं के बिना तारे नहीं बन सकते थे, न भारी तत्व और न जीवन।
+
+आपके शरीर का हर परमाणु या तो बिग बैंग से आया है या बाद में बने तारों से।
+
+### अगला लेख
+
+अगले लेख में हम **हाइड्रोजन** पर बात करेंगे — ब्रह्मांड का सबसे पहला और सबसे प्रचुर तत्व। यह कैसे पहले तारों को जलाया और बाकी सब कुछ संभव बनाया।
+
+बने रहिए — 118 तत्वों की यात्रा अभी शुरू हुई है!`
 Imagine a time when there was no space, no time, no stars, and no planets. Everything that exists today — from the smallest atom to the largest galaxy — was once squeezed into an infinitely hot, infinitely dense point. Then, 13.8 billion years ago, that point exploded in the biggest event in cosmic history: the Big Bang.
 
 This is not just a story from ancient myths. It is the most successful scientific theory we have about the origin of our universe. In this article, we will journey step by step from that first moment to the birth of the very first elements — hydrogen and helium.
