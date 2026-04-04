@@ -254,7 +254,7 @@ JWST की हर तस्वीर एक याद दिलाती है
 
 *The Saagar पर बने रहें — अंतरिक्ष, विज्ञान और उस ब्रह्मांड के चमत्कारों में और गहरे उतरने के लिए जिसने हमें बनाया।*`
     },
-    image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
+    image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 12, featured: true,
   },
 {
     id: "the-big-bang",
