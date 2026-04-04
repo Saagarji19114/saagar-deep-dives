@@ -47,10 +47,214 @@ export const articles: Article[] = [
     title: { en: "James Webb Telescope: New Discoveries Beyond Imagination", hi: "जेम्स वेब टेलीस्कोप: कल्पना से परे नई खोजें" },
     excerpt: { en: "The telescope continues to reveal ancient galaxies and atmospheric data from exoplanets that challenge our models.", hi: "यह टेलीस्कोप प्राचीन आकाशगंगाओं और एक्सोप्लैनेट्स के वायुमंडलीय डेटा को प्रकट करता जा रहा है।" },
     content: {
-      en: `## Peering Into the Cosmic Dawn\n\nThe James Webb Space Telescope (JWST) has been operational for over three years now, and its discoveries continue to astound astronomers.\n\n## Recent Breakthroughs\n\n### Ancient Galaxies\nJWST has identified galaxies that formed just 300 million years after the Big Bang — far earlier than our models predicted.\n\n### Exoplanet Atmospheres\nFor the first time, we can analyze the chemical composition of exoplanet atmospheres with unprecedented detail.\n\n## What's Next\n\nUpcoming observations will focus on potentially habitable worlds in the TRAPPIST-1 system.`,
-      hi: `## ब्रह्मांडीय भोर में झांकना\n\nजेम्स वेब स्पेस टेलीस्कोप (JWST) तीन साल से अधिक समय से काम कर रहा है, और इसकी खोजें खगोलविदों को चकित करती रहती हैं।\n\n## हालिया सफलताएं\n\n### प्राचीन आकाशगंगाएं\nJWST ने ऐसी आकाशगंगाओं की पहचान की है जो बिग बैंग के केवल 300 मिलियन वर्ष बाद बनी थीं।`
+      en: `## A New Eye on the Universe
+
+Imagine standing at the edge of time itself, looking back 13.5 billion years into the past. That is exactly what the James Webb Space Telescope (JWST) lets us do. Launched on Christmas Day 2021, this $10 billion marvel of engineering has become humanity's most powerful window into the cosmos.
+
+In just over three years of operation, JWST has shattered records, challenged theories, and revealed a universe far stranger and more beautiful than we ever imagined. Let us explore the incredible journey and discoveries of this extraordinary telescope.
+
+## The Journey to Launch
+
+### Decades in the Making
+
+The idea for JWST was born in 1996, just six years after Hubble launched. Scientists knew they needed a telescope that could see in infrared light — the kind of light emitted by the oldest, most distant objects in the universe.
+
+But building such a telescope was a monumental challenge. It took over 25 years, 10,000 engineers and scientists from 14 countries, and multiple delays before JWST finally soared into space aboard an Ariane 5 rocket from French Guiana.
+
+### Why Infrared Matters
+
+Visible light from the earliest galaxies has been stretched by the expansion of the universe into infrared wavelengths. Hubble, which primarily sees in visible and ultraviolet light, simply cannot detect these ancient cosmic whispers. JWST's golden mirrors, coated with a microscopically thin layer of gold, are optimized to capture this faint infrared glow.
+
+## Why JWST Is So Much More Powerful Than Hubble
+
+To understand the leap JWST represents, consider these comparisons:
+
+- JWST's primary mirror is 6.5 meters across — nearly 3 times larger than Hubble's 2.4-meter mirror
+- It collects over 6 times more light than Hubble
+- It can see objects 100 times fainter than what Hubble can detect
+- Its sunshield is the size of a tennis court, keeping instruments at -233°C
+- It orbits the Sun at the L2 Lagrange point, 1.5 million km from Earth — four times farther than the Moon
+
+While Hubble orbits just 547 km above Earth, JWST sits in the cold darkness of deep space, far from our planet's heat and light interference.
+
+## Major Discoveries That Changed Everything
+
+### The Oldest Galaxies Ever Seen
+
+One of JWST's first major surprises was finding fully formed galaxies that existed just 300 million years after the Big Bang. These galaxies — named JADES-GS-z14-0 and others — were far more massive and structured than our models predicted.
+
+This discovery sent shockwaves through the astronomical community. How could galaxies grow so large so quickly? Our theories of galaxy formation may need fundamental revision.
+
+### Exoplanet Atmospheres Revealed
+
+JWST has transformed exoplanet science. For the first time, we can analyze the chemical composition of alien atmospheres with stunning precision.
+
+Key findings include:
+
+- Detection of carbon dioxide in the atmosphere of WASP-39b — a first for any exoplanet
+- Water vapor signatures on multiple rocky worlds
+- Sulfur dioxide detected as a photochemical product — proving active chemistry in alien skies
+- Detailed atmospheric studies of the TRAPPIST-1 system, where seven Earth-sized planets orbit a cool red dwarf star
+
+The TRAPPIST-1 results are particularly exciting. Several of these planets sit in the habitable zone, and JWST is slowly building a picture of whether any could support life.
+
+### Stellar Nurseries in Breathtaking Detail
+
+JWST's infrared vision can pierce through cosmic dust clouds that block Hubble's view. The result: stunning images of stellar nurseries where new stars are being born.
+
+The Pillars of Creation, famously photographed by Hubble, were reimagined by JWST with incredible new detail. Hidden protostars, jets of gas, and intricate structures emerged from the dust for the first time.
+
+### Surprises That Challenged Models
+
+Science thrives on surprises, and JWST has delivered many:
+
+- Galaxies in the early universe appear too bright and too massive for current models
+- Some distant galaxies show surprisingly high levels of heavy elements
+- The rate of cosmic expansion (the Hubble constant) remains stubbornly inconsistent between different measurement methods — JWST data has deepened this "Hubble tension" mystery
+
+## How JWST Is Changing Our Understanding
+
+### Rewriting Cosmic History
+
+Before JWST, we thought the first galaxies were small, dim, and irregular. Now we know that structure and complexity appeared in the universe much earlier than expected. This may mean that dark matter behaves differently than we thought, or that star formation in the early universe was far more efficient.
+
+### The Search for Life
+
+Every atmospheric measurement of a rocky exoplanet brings us closer to answering the ultimate question: Are we alone? JWST cannot directly detect life, but it can find biosignature gases — like oxygen, methane, and ozone — that would strongly hint at biological activity.
+
+### Understanding Our Own Origins
+
+By studying how the first stars and galaxies formed, JWST helps us understand the chain of cosmic events that eventually led to our Sun, our Earth, and us. We are, quite literally, made of stardust — and JWST is showing us where that stardust came from.
+
+## What to Expect in the Coming Years
+
+JWST is designed to operate for at least 20 years, thanks to a near-perfect launch that conserved fuel. Here is what lies ahead:
+
+- Deeper studies of TRAPPIST-1 planets for signs of atmospheres and potential biosignatures
+- Observations of the most distant quasars to understand supermassive black hole formation
+- Mapping the distribution of dark matter through gravitational lensing
+- Coordinated observations with ground-based telescopes like the Extremely Large Telescope (ELT)
+- Potential discovery of the first Population III stars — the very first stars that ever formed
+
+## The Saagar Verdict
+
+The James Webb Space Telescope is not just a scientific instrument — it is a philosophical statement. It says that humanity, a species on a tiny blue dot, dares to look back to the very beginning of time and ask: Where did we come from? What else is out there?
+
+Every image JWST sends back is a reminder that the universe is far grander, far stranger, and far more beautiful than our imaginations could conjure. We are living in a golden age of cosmic discovery, and the best is yet to come.
+
+As we continue to explore the universe through the golden eyes of JWST, one thing becomes clear: the cosmos has only just begun to reveal its secrets.
+
+*Stay tuned to The Saagar for more deep dives into the wonders of space, science, and the universe that made us.*`,
+      hi: `## ब्रह्मांड पर एक नई नज़र
+
+कल्पना कीजिए कि आप समय के किनारे पर खड़े हैं और 13.5 अरब साल पीछे देख रहे हैं — ब्रह्मांड के जन्म के करीब। यही वो अद्भुत काम है जो जेम्स वेब स्पेस टेलीस्कोप (JWST) हमें करने देता है। 25 दिसंबर 2021 को लॉन्च हुआ यह $10 बिलियन का इंजीनियरिंग चमत्कार आज मानवता की सबसे शक्तिशाली अंतरिक्ष दूरबीन बन चुका है।
+
+सिर्फ तीन साल से कुछ अधिक समय में, JWST ने रिकॉर्ड तोड़े हैं, सिद्धांतों को चुनौती दी है, और एक ऐसे ब्रह्मांड को प्रकट किया है जो हमारी कल्पना से कहीं अधिक विचित्र और सुंदर है। आइए इस असाधारण टेलीस्कोप की अविश्वसनीय यात्रा और खोजों को जानते हैं।
+
+## लॉन्च तक की यात्रा: 25 साल का सफर
+
+### दशकों की मेहनत का नतीजा
+
+JWST का विचार 1996 में पैदा हुआ था — हबल टेलीस्कोप के लॉन्च होने के मात्र छह साल बाद। वैज्ञानिकों को पता था कि उन्हें एक ऐसी दूरबीन चाहिए जो इन्फ्रारेड प्रकाश में देख सके — वह प्रकाश जो ब्रह्मांड की सबसे पुरानी और सबसे दूर की वस्तुओं से आता है।
+
+लेकिन ऐसी दूरबीन बनाना कोई आसान काम नहीं था। इसमें 25 साल से अधिक समय लगा, 14 देशों के 10,000 से ज्यादा इंजीनियर और वैज्ञानिक शामिल हुए, और कई बार लॉन्च की तारीख टली। आखिरकार, JWST ने फ्रेंच गुयाना से एरियन 5 रॉकेट पर सवार होकर अंतरिक्ष की ओर उड़ान भरी।
+
+### इन्फ्रारेड क्यों ज़रूरी है?
+
+ब्रह्मांड की सबसे पुरानी आकाशगंगाओं से आने वाला दृश्य प्रकाश ब्रह्मांड के विस्तार के कारण इन्फ्रारेड तरंगदैर्ध्य में बदल चुका है। हबल, जो मुख्य रूप से दृश्य और पराबैंगनी प्रकाश में देखता है, इन प्राचीन ब्रह्मांडीय संकेतों को पकड़ने में असमर्थ है। JWST के सोने से मढ़े दर्पण, जिन पर सूक्ष्म रूप से पतली सोने की परत चढ़ी है, इस धीमी इन्फ्रारेड चमक को पकड़ने के लिए अनुकूलित हैं।
+
+## JWST हबल से कितना शक्तिशाली है?
+
+JWST की क्षमता को समझने के लिए इन तुलनाओं पर गौर करें:
+
+- JWST का प्राथमिक दर्पण 6.5 मीटर चौड़ा है — हबल के 2.4 मीटर दर्पण से लगभग 3 गुना बड़ा
+- यह हबल से 6 गुना अधिक प्रकाश एकत्र करता है
+- यह हबल से 100 गुना अधिक धुंधली वस्तुओं को देख सकता है
+- इसकी सनशील्ड एक टेनिस कोर्ट के आकार की है, जो उपकरणों को -233°C पर रखती है
+- यह पृथ्वी से 15 लाख किलोमीटर दूर L2 लैग्रेंज बिंदु पर सूर्य की परिक्रमा करता है — चंद्रमा से चार गुना दूर
+
+जहां हबल पृथ्वी से मात्र 547 किमी ऊपर परिक्रमा करता है, वहीं JWST गहरे अंतरिक्ष की ठंडी अंधेरी में बैठा है, हमारे ग्रह की गर्मी और प्रकाश के हस्तक्षेप से बहुत दूर।
+
+## प्रमुख खोजें जिन्होंने सब कुछ बदल दिया
+
+### अब तक देखी गई सबसे पुरानी आकाशगंगाएं
+
+JWST के पहले बड़े आश्चर्यों में से एक था पूरी तरह से विकसित आकाशगंगाओं का मिलना जो बिग बैंग के मात्र 300 मिलियन वर्ष बाद अस्तित्व में आ गई थीं। JADES-GS-z14-0 जैसी ये आकाशगंगाएं हमारे मॉडलों की भविष्यवाणी से कहीं अधिक विशाल और संरचित थीं।
+
+इस खोज ने खगोलीय समुदाय में हलचल मचा दी। इतनी जल्दी आकाशगंगाएं इतनी बड़ी कैसे बन सकती हैं? हमारे आकाशगंगा निर्माण के सिद्धांतों को शायद मूलभूत रूप से संशोधित करने की जरूरत है।
+
+यह ऐसा है जैसे आपको बताया जाए कि एक नवजात शिशु पहले से ही दौड़ सकता है — यह हमारी समझ को पूरी तरह उलट देता है।
+
+### एक्सोप्लैनेट के वायुमंडल का खुलासा
+
+JWST ने एक्सोप्लैनेट विज्ञान को पूरी तरह बदल दिया है। पहली बार, हम परग्रही वायुमंडलों की रासायनिक संरचना का अद्भुत सटीकता से विश्लेषण कर सकते हैं।
+
+प्रमुख खोजों में शामिल हैं:
+
+- WASP-39b के वायुमंडल में कार्बन डाइऑक्साइड का पता लगाना — किसी भी एक्सोप्लैनेट के लिए पहली बार
+- कई चट्टानी ग्रहों पर जल वाष्प के संकेत
+- सल्फर डाइऑक्साइड का पता लगाना — जो परग्रही आकाशों में सक्रिय रसायन विज्ञान को साबित करता है
+- TRAPPIST-1 प्रणाली का विस्तृत वायुमंडलीय अध्ययन, जहां एक ठंडे लाल बौने तारे के चारों ओर सात पृथ्वी-आकार के ग्रह परिक्रमा करते हैं
+
+TRAPPIST-1 के नतीजे विशेष रूप से रोमांचक हैं। इनमें से कई ग्रह रहने योग्य क्षेत्र (habitable zone) में हैं, और JWST धीरे-धीरे इस तस्वीर को बना रहा है कि क्या इनमें से कोई जीवन का समर्थन कर सकता है। अगर किसी ग्रह के वायुमंडल में ऑक्सीजन, मीथेन और ओज़ोन जैसी गैसें एक साथ मिलती हैं, तो यह जीवन का एक मजबूत संकेत हो सकता है।
+
+### तारकीय नर्सरी: जहां नए तारे जन्म लेते हैं
+
+JWST की इन्फ्रारेड दृष्टि उन ब्रह्मांडीय धूल के बादलों को भेद सकती है जो हबल की नज़र को रोक देते हैं। नतीजा: तारकीय नर्सरी की अद्भुत तस्वीरें जहां नए तारे जन्म ले रहे हैं।
+
+"पिलर्स ऑफ क्रिएशन" (Pillars of Creation), जिन्हें हबल ने प्रसिद्ध रूप से फोटो किया था, JWST ने उन्हें अविश्वसनीय नई बारीकियों के साथ पुनः चित्रित किया। छिपे हुए प्रोटोस्टार, गैस की धाराएं, और जटिल संरचनाएं पहली बार धूल के पीछे से उभरीं। यह ऐसा है जैसे किसी पुरानी पेंटिंग की सफाई करने पर उसके नीचे एक और शानदार पेंटिंग निकल आए।
+
+### वो आश्चर्य जिन्होंने वैज्ञानिकों को हैरान किया
+
+विज्ञान आश्चर्यों पर पनपता है, और JWST ने कई दिए हैं:
+
+- प्रारंभिक ब्रह्मांड की आकाशगंगाएं वर्तमान मॉडलों के लिए बहुत चमकीली और बहुत विशाल दिखाई देती हैं
+- कुछ दूर की आकाशगंगाओं में आश्चर्यजनक रूप से उच्च स्तर के भारी तत्व मिले
+- ब्रह्मांडीय विस्तार की दर (हबल स्थिरांक) विभिन्न माप विधियों के बीच अभी भी असंगत बनी हुई है — JWST डेटा ने इस "हबल तनाव" रहस्य को और गहरा कर दिया है
+
+ये "समस्याएं" वास्तव में विज्ञान के लिए सबसे रोमांचक हिस्सा हैं — क्योंकि जब हमारे मॉडल गलत साबित होते हैं, तभी हम कुछ नया सीखते हैं।
+
+## JWST हमारी समझ कैसे बदल रहा है
+
+### ब्रह्मांडीय इतिहास को फिर से लिखना
+
+JWST से पहले, हम सोचते थे कि पहली आकाशगंगाएं छोटी, धुंधली और अनियमित थीं। अब हम जानते हैं कि ब्रह्मांड में संरचना और जटिलता अपेक्षा से बहुत पहले प्रकट हुई थी। इसका मतलब यह हो सकता है कि डार्क मैटर हमारी सोच से अलग व्यवहार करता है, या कि प्रारंभिक ब्रह्मांड में तारा निर्माण कहीं अधिक कुशल था।
+
+### जीवन की खोज: क्या हम अकेले हैं?
+
+एक चट्टानी एक्सोप्लैनेट के वायुमंडल का हर माप हमें उस परम प्रश्न के उत्तर के करीब लाता है: क्या हम अकेले हैं? JWST सीधे जीवन का पता नहीं लगा सकता, लेकिन यह बायोसिग्नेचर गैसों — जैसे ऑक्सीजन, मीथेन और ओज़ोन — को खोज सकता है जो जैविक गतिविधि का मजबूत संकेत होंगी।
+
+सोचिए — अगर TRAPPIST-1 के किसी ग्रह पर ये गैसें मिल जाएं, तो यह मानव इतिहास की सबसे बड़ी खोज होगी। और JWST इस दिशा में हर दिन काम कर रहा है।
+
+### हमारी अपनी उत्पत्ति को समझना
+
+पहले तारों और आकाशगंगाओं के बनने का अध्ययन करके, JWST हमें उन ब्रह्मांडीय घटनाओं की श्रृंखला को समझने में मदद करता है जो अंततः हमारे सूर्य, हमारी पृथ्वी और हमें बनाने तक पहुंची। हम शाब्दिक रूप से तारों की धूल से बने हैं — और JWST हमें दिखा रहा है कि वह तारों की धूल कहां से आई।
+
+यह एक गहरा दार्शनिक विचार है — हम ब्रह्मांड के उत्पाद हैं, और अब ब्रह्मांड ने हमारे रूप में अपने आप को देखने और समझने का एक तरीका बनाया है।
+
+## आने वाले वर्षों में क्या उम्मीद करें
+
+JWST को कम से कम 20 वर्षों तक काम करने के लिए डिज़ाइन किया गया है, एक लगभग सही लॉन्च की बदौलत जिसने ईंधन बचाया। आगे क्या है:
+
+- वायुमंडल और संभावित बायोसिग्नेचर के संकेतों के लिए TRAPPIST-1 ग्रहों का गहन अध्ययन
+- सुपरमैसिव ब्लैक होल के निर्माण को समझने के लिए सबसे दूर के क्वासर का अवलोकन
+- गुरुत्वाकर्षण लेंसिंग के माध्यम से डार्क मैटर के वितरण का मानचित्रण
+- एक्सट्रीमली लार्ज टेलीस्कोप (ELT) जैसी ज़मीन-आधारित दूरबीनों के साथ समन्वित अवलोकन
+- Population III तारों की संभावित खोज — वे सबसे पहले तारे जो कभी बने थे
+
+हर नई खोज हमें ब्रह्मांड के एक और रहस्य के करीब ले जाती है। और सबसे अच्छी बात यह है कि JWST की यात्रा अभी शुरू ही हुई है।
+
+## द सागर का फैसला
+
+जेम्स वेब स्पेस टेलीस्कोप सिर्फ एक वैज्ञानिक उपकरण नहीं है — यह एक दार्शनिक बयान है। यह कहता है कि मानवता, एक छोटे से नीले बिंदु पर रहने वाली प्रजाति, समय की शुरुआत तक देखने और पूछने की हिम्मत रखती है: हम कहां से आए? और वहां बाहर क्या है?
+
+JWST की हर तस्वीर एक याद दिलाती है कि ब्रह्मांड हमारी कल्पना से कहीं अधिक भव्य, विचित्र और सुंदर है। हम ब्रह्मांडीय खोज के स्वर्ण युग में जी रहे हैं, और सबसे अच्छा अभी आना बाकी है।
+
+जैसे-जैसे हम JWST की सुनहरी आंखों से ब्रह्मांड को खोजते रहेंगे, एक बात स्पष्ट होती जाएगी: ब्रह्मांड ने अभी अपने रहस्यों को प्रकट करना शुरू ही किया है।
+
+*The Saagar पर बने रहें — अंतरिक्ष, विज्ञान और उस ब्रह्मांड के चमत्कारों में और गहरे उतरने के लिए जिसने हमें बनाया।*`
     },
-    image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 6, featured: true,
+    image: articleSpace, category: "space", author: "Sahjad", date: "2026-03-25", readTime: 12, featured: true,
   },
 {
     id: "the-big-bang",
