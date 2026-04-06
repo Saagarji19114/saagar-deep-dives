@@ -38,10 +38,16 @@ const Footer = () => {
             <h4 className="text-sm font-semibold text-foreground mb-3">{t("footer.social")}</h4>
             <div className="flex gap-3">
               {["Twitter/X", "LinkedIn", "YouTube"].map((s) => (
-                <a key={s} href="#" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  {s}
-                </a>
-              ))}
+  <a 
+    key={s} 
+    href={s === "Twitter/X" ? "https://x.com/sahjad_saagarji" : "#"} 
+    target={s === "Twitter/X" ? "_blank" : undefined}
+    rel={s === "Twitter/X" ? "noopener noreferrer" : undefined}
+    className="text-sm text-muted-foreground hover:text-primary transition-colors"
+  >
+    {s}
+  </a>
+))}
             </div>
           </div>
         </div>
