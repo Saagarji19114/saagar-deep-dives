@@ -26,6 +26,7 @@ const ArticlePage = () => {
 
   const renderContent = (md: string) => {
     return md.split("\n").map((line, i) => {
+      if (line.trim().startsWith("<img ")) return <div key={i} dangerouslySetInnerHTML={{ __html: line }} />;
       if (line.startsWith("### ")) return <h3 key={i} className="text-lg font-bold text-foreground mt-6 mb-2">{line.replace("### ", "")}</h3>;
       if (line.startsWith("## ")) return <h2 key={i} id={line.replace("## ", "").toLowerCase().replace(/\s+/g, "-")} className="text-xl font-bold text-foreground mt-8 mb-3">{line.replace("## ", "")}</h2>;
       if (line.startsWith("- ")) return <li key={i} className="text-muted-foreground ml-4 list-disc">{line.replace("- ", "")}</li>;
