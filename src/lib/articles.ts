@@ -593,7 +593,6 @@ IBM, Google, Microsoft, Amazon, IonQ, Rigetti, और चीनी संस्�
     image: articleQuantum, category: "technology", author: "Sahjad", date: "2026-03-20", readTime: 14, featured: true,
   },
   {
-  {
     id: "deep-ocean-bioluminescence", slug: "deep-ocean-bioluminescence-natures-light-show",
     title: { en: "Deep Ocean Bioluminescence: Nature's Light Show", hi: "गहरे समुद्र की बायोलुमिनेसेंस: प्रकृति का आश्चर्यजनक लाइट शो" },
     excerpt: { en: "In the darkest corners of our oceans, life glows. A journey into the breathtaking world of bioluminescent creatures and the science behind nature's most magical light show.", hi: "हमारे महासागरों के सबसे अंधेरे कोनों में, ज़िंदगी चमकती है। बायोलुमिनेसेंट जीवों की जादुई दुनिया और प्रकृति के सबसे रहस्यमय लाइट शो के पीछे के विज्ञान की एक यात्रा।" },
