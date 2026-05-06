@@ -1,6 +1,7 @@
 import { useI18n } from "@/lib/i18n";
 import Layout from "@/components/Layout";
 import Newsletter from "@/components/Newsletter";
+import { Mail } from "lucide-react";
 
 const Contact = () => {
   const { t } = useI18n();
@@ -11,6 +12,20 @@ const Contact = () => {
         <h1 className="font-display text-3xl md:text-4xl font-bold text-foreground mb-8">
           {t("contact.title")}
         </h1>
+        <a
+          href="mailto:sahjadk42@gmail.com"
+          className="flex items-center gap-3 mb-8 p-4 rounded-lg bg-muted border border-border hover:border-primary/50 transition-colors group"
+        >
+          <span className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary">
+            <Mail className="h-5 w-5" />
+          </span>
+          <span>
+            <span className="block text-xs text-muted-foreground">Email</span>
+            <span className="block text-sm font-medium text-foreground group-hover:text-primary transition-colors">
+              sahjadk42@gmail.com
+            </span>
+          </span>
+        </a>
         <form onSubmit={(e) => e.preventDefault()} className="space-y-5">
           <div>
             <label className="block text-sm font-medium text-foreground mb-1.5">{t("contact.name")}</label>

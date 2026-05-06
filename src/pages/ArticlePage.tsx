@@ -3,6 +3,8 @@ import { useI18n } from "@/lib/i18n";
 import { getArticleBySlug, articles } from "@/lib/articles";
 import Layout from "@/components/Layout";
 import ArticleCard from "@/components/ArticleCard";
+import Giscus from "@/components/Giscus";
+import LikeButton from "@/components/LikeButton";
 
 const ArticlePage = () => {
   const { slug } = useParams();
@@ -89,19 +91,20 @@ const ArticlePage = () => {
             {/* Content */}
             <article className={`flex-1 ${lang === "hi" ? "font-hindi" : ""}`}>
               {renderContent(content)}
+              {/* Like Button */}
+              <div className="mt-10 pt-6 border-t border-border flex items-center gap-4">
+                <LikeButton articleId={article.id} />
+                <span className="text-xs text-muted-foreground">
+                  {lang === "hi" ? "अगर आपको यह लेख पसंद आया तो लाइक करें" : "If you enjoyed this article, give it a like"}
+                </span>
+              </div>
             </article>
           </div>
 
-          {/* Comments placeholder */}
+          {/* Comments — Giscus */}
           <div className="mt-12 pt-8 border-t border-border">
             <h3 className="font-display text-lg font-bold text-foreground mb-4">{t("section.comments")}</h3>
-            <textarea
-              placeholder={t("section.comments.placeholder")}
-              className="w-full px-4 py-3 rounded-lg bg-muted border border-border text-foreground text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/50 resize-none h-24"
-            />
-            <button className="mt-3 px-5 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors">
-              {t("section.comments.submit")}
-            </button>
+            <Giscus />
           </div>
         </div>
         {/* Related */}
