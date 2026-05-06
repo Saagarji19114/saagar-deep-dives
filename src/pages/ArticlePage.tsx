@@ -104,25 +104,6 @@ const ArticlePage = () => {
             </button>
           </div>
         </div>
-         {/* Giscus Comments */}
-        <div className="giscus mt-16" id="giscus"></div>
-
-        <script
-          src="https://giscus.app/client.js"
-          data-repo="Saagarji19114/saagar-deep-dives"
-          data-repo-id="R_kgDOR2xtuw"
-          data-category="General"
-          data-category-id="DIC_kwDOR2xtu84C8a54"
-          data-mapping="pathname"
-          data-strict="0"
-          data-reactions-enabled="1"
-          data-emit-metadata="0"
-          data-input-position="bottom"
-          data-theme="preferred_color_scheme"
-          data-lang="en"
-          crossOrigin="anonymous"
-          async
-        ></script>
         {/* Related */}
         {related.length > 0 && (
           <section className="py-12">
