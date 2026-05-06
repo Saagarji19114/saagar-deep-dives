@@ -110,7 +110,7 @@ const ArticlePage = () => {
         <script
           src="https://giscus.app/client.js"
           data-repo="Saagarji19114/saagar-deep-dives"
-          data-repo-id="R_kqDOR2xtuw"
+          data-repo-id="R_kgDOR2xtuw"
           data-category="General"
           data-category-id="DIC_kwDOR2xtu84C8a54"
           data-mapping="pathname"
