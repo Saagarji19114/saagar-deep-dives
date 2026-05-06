@@ -647,3 +647,18 @@ IBM, Google, Microsoft, Amazon, IonQ, Rigetti, और चीनी संस्�
 export const getArticlesByCategory = (cat: string) => articles.filter((a) => a.category === cat);
 export const getFeaturedArticles = () => articles.filter((a) => a.featured);
 export const getArticleBySlug = (slug: string) => articles.find((a) => a.slug === slug);
+<script src="https://giscus.app/client.js"
+        data-repo="Saagarji19114/saagar-deep-dives"
+        data-repo-id="R_kgDOR2xtuw"
+        data-category="General"
+        data-category-id="DIC_kwDOR2xtu84C8a54"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
