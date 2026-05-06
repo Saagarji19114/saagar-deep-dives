@@ -105,7 +105,7 @@ const ArticlePage = () => {
           </div>
         </div>
          {/* Giscus Comments */}
-        <div className="giscus mt-12" id="giscus"></div>
+        <div className="giscus mt-16" id="giscus"></div>
 
         <script
           src="https://giscus.app/client.js"
