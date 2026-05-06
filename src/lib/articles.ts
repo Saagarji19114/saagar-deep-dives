@@ -647,4 +647,4 @@ IBM, Google, Microsoft, Amazon, IonQ, Rigetti, और चीनी संस्�
 export const getArticlesByCategory = (cat: string) => articles.filter((a) => a.category === cat);
 export const getFeaturedArticles = () => articles.filter((a) => a.featured);
 export const getArticleBySlug = (slug: string) => articles.find((a) => a.slug === slug);
-<script src="https://giscus.app/client.js"
+
