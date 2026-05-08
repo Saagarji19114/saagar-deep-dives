@@ -69,6 +69,7 @@ const ArticlePage = () => {
             <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(shareTitle)}`} target="_blank" rel="noopener noreferrer" className="text-xs px-3 py-1.5 rounded-md bg-muted text-muted-foreground hover:text-foreground transition-colors">Twitter/X</a>
             <a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`} target="_blank" rel="noopener noreferrer" className="text-xs px-3 py-1.5 rounded-md bg-muted text-muted-foreground hover:text-foreground transition-colors">LinkedIn</a>
             <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`} target="_blank" rel="noopener noreferrer" className="text-xs px-3 py-1.5 rounded-md bg-muted text-muted-foreground hover:text-foreground transition-colors">Facebook</a>
+            <a href={`https://wa.me/?text=${encodeURIComponent(shareTitle + " " + shareUrl)}`} target="_blank" rel="noopener noreferrer" className="text-xs px-3 py-1.5 rounded-md bg-muted text-muted-foreground hover:text-foreground transition-colors">WhatsApp</a>
           </div>
 
           <div className="flex flex-col lg:flex-row gap-8">
