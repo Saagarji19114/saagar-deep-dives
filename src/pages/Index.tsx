@@ -9,6 +9,8 @@ import heroBg from "@/assets/hero-bg.jpg";
 const Index = () => {
   const { lang, t } = useI18n();
   const featured = getFeaturedArticles();
+  const featuredIds = new Set(featured.slice(0, 3).map((a) => a.id));
+  const latest = articles.filter((a) => !featuredIds.has(a.id)).slice(0, 8);
 
   return (
     <Layout>
@@ -78,7 +80,7 @@ const Index = () => {
             </Link>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {articles.slice(0, 8).map((a) => (
+            {latest.map((a) => (
               <ArticleCard key={a.id} article={a} />
             ))}
           </div>

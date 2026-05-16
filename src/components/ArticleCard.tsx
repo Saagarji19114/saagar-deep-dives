@@ -27,11 +27,11 @@ const ArticleCard = ({ article, featured = false }: { article: Article; featured
           {t(`cat.${article.category}`)}
         </span>
         <h3 className={`font-display font-bold text-foreground leading-snug mb-2 group-hover:text-primary transition-colors ${
-          featured ? "text-xl md:text-2xl" : "text-base"
+          featured ? "text-xl md:text-2xl" : "text-lg md:text-xl"
         } ${lang === "hi" ? "font-hindi" : ""}`}>
           {article.title[lang]}
         </h3>
-        <p className={`text-sm text-muted-foreground leading-relaxed mb-3 line-clamp-2 ${lang === "hi" ? "font-hindi" : ""}`}>
+        <p className={`text-base text-muted-foreground leading-relaxed mb-3 line-clamp-2 ${lang === "hi" ? "font-hindi" : ""}`}>
           {article.excerpt[lang]}
         </p>
         <div className="flex items-center gap-3 text-xs text-muted-foreground">
