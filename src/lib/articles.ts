@@ -653,15 +653,6 @@ IBM, Google, Microsoft, Amazon, IonQ, Rigetti, और चीनी संस्�
     image: articleEnergy, category: "environment", author: "Sahjad", date: "2026-04-02", readTime: 9, featured: true,
   },
 ];
-    title: { en: "CRISPR Gene Editing: A Complete Guide", hi: "CRISPR जीन एडिटिंग: एक संपूर्ण गाइड" },
-    excerpt: { en: "How CRISPR works, why it matters, and what ethical questions it raises — explained simply.", hi: "CRISPR कैसे काम करता है, यह क्यों महत्वपूर्ण है, और यह कौन से नैतिक सवाल उठाता है — सरल भाषा में।" },
-    content: {
-      en: `## What is CRISPR?\n\nCRISPR-Cas9 is a revolutionary gene editing tool that allows scientists to modify DNA with unprecedented precision.\n\n## How It Works\n\n1. A guide RNA directs the Cas9 protein to a specific DNA sequence\n2. Cas9 cuts the DNA at that location\n3. The cell's repair machinery fixes the cut, allowing edits\n\n## Applications\n\n- Treating genetic diseases\n- Developing disease-resistant crops\n- Creating new antibiotics\n- Understanding evolution`,
-      hi: `## CRISPR क्या है?\n\nCRISPR-Cas9 एक क्रांतिकारी जीन एडिटिंग उपकरण है जो वैज्ञानिकों को अभूतपूर्व सटीकता के साथ DNA को संशोधित करने की अनुमति देता है।`
-    },
-    image: articleDna, category: "explainers", author: "Sahjad", date: "2026-02-25", readTime: 10,
-  },
-];
 
 export const getArticlesByCategory = (cat: string) => articles.filter((a) => a.category === cat);
 export const getFeaturedArticles = () => articles.filter((a) => a.featured);
