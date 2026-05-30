@@ -603,9 +603,6 @@ IBM, Google, Microsoft, Amazon, IonQ, Rigetti, और चीनी संस्�
     image: articleOcean, category: "science", author: "Sahjad", date: "2026-03-15", readTime: 13, featured: true,
   },
   {
-    id: "5", slug: "renewable-energy-revolution-2026",
-    title: { en: "The Renewable Energy Revolution of 2026", hi: "2026 की नवीकरणीय ऊर्जा क्रांति" },
-    excerpt: { en: "Solar and wind now account for 40% of global electricity — and the growth is accelerating.", hi: "सौर और पवन ऊर्जा अब वैश्विक बिजली का 40% है — और विकास तेज हो रहा है।" },
     id: "6", slug: "mars-sample-return-mission-update",
     title: { en: "Mars Sample Return: What We've Learned So Far", hi: "मंगल नमूना वापसी: अब तक हमने क्या सीखा" },
     excerpt: { en: "The Mars Sample Return mission is on track, and preliminary analysis of collected samples is revealing surprises.", hi: "मंगल नमूना वापसी मिशन सही दिशा में है, और एकत्रित नमूनों का प्रारंभिक विश्लेषण आश्चर्यजनक है।" },
