@@ -5,11 +5,14 @@ import Layout from "@/components/Layout";
 import ArticleCard from "@/components/ArticleCard";
 import Giscus from "@/components/Giscus";
 import LikeButton from "@/components/LikeButton";
+import AstraArticleView from "@/components/AstraArticleView";
 
 const ArticlePage = () => {
   const { slug } = useParams();
   const { lang, t } = useI18n();
   const article = getArticleBySlug(slug || "");
+
+  if (article?.id === "gpt-6-astra-evolution") return <AstraArticleView />;
 
   if (!article) {
     return (

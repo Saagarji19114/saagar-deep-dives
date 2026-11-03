@@ -6,6 +6,7 @@ import articleEnergy from "@/assets/article-energy.jpg";
 import articleMars from "@/assets/article-mars.jpg";
 import articleGadget from "@/assets/article-gadget.jpg";
 import articleDna from "@/assets/article-dna.jpg";
+import { astraArticle } from "./astraArticle";
 
 export interface Article {
   id: string;
@@ -32,6 +33,7 @@ export const categories = [
 ];
 
 export const articles: Article[] = [
+  astraArticle,
   {
     id: "1", slug: "future-of-artificial-intelligence-2026",
     title: { en: "The Future of Artificial Intelligence in 2026", hi: "2026 में कृत्रिम बुद्धिमत्ता का भविष्य" },

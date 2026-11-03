@@ -80,6 +80,18 @@
 
   <!-- Articles -->
   <url>
+    <loc>https://saagar-deep-dives.lovable.app/article/ai-evolution-gpt-6-astra?lang=en</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://saagar-deep-dives.lovable.app/article/ai-evolution-gpt-6-astra?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://saagar-deep-dives.lovable.app/article/ai-evolution-gpt-6-astra?lang=hi"/>
+  </url>
+  <url>
+    <loc>https://saagar-deep-dives.lovable.app/article/ai-evolution-gpt-6-astra?lang=hi</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://saagar-deep-dives.lovable.app/article/ai-evolution-gpt-6-astra?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://saagar-deep-dives.lovable.app/article/ai-evolution-gpt-6-astra?lang=hi"/>
+  </url>
+  <url>
     <loc>https://thesaagar.com/article/future-of-artificial-intelligence-2026</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>monthly</changefreq>
